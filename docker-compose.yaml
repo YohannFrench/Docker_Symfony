@@ -1,0 +1,24 @@
+services:
+  # Server
+  web:
+    container_name: nginx_container
+    build:
+      context: .
+      dockerfile: docker/nginx/Dockerfile
+    ports:
+      - "80:80"
+    volumes:
+      - ./symfony:/var/www/html
+    depends_on:
+      - php
+
+  # PHP app
+  php:
+    container_name: php_container
+    ports:
+      - "8000:8000"
+    build:
+      context: .
+      dockerfile: docker/php/Dockerfile
+    volumes:
+      - ./symfony:/var/www/html/app/symfony

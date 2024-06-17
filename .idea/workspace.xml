@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0f98aa4-ce5a-4f86-a804-34ad02dbc468" name="Changes" comment="test" />
+    <list default="true" id="f0f98aa4-ce5a-4f86-a804-34ad02dbc468" name="Changes" comment="test2">
+      <change afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guide_angular_symfony.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guide_docker_symfony.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/nginx/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/docker/nginx/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/nginx/conf.d/symfony.conf" beforeDir="false" afterPath="$PROJECT_DIR$/docker/nginx/conf.d/symfony.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/php/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/docker/php/Dockerfile" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,28 +31,42 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "YohannFrench"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/YohannFrench/Docker_Symfony.git",
+    "accountId": "7957942b-631c-4c2a-9889-d10a5a9b2bfe"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2i0r9tN8QWSJBXo7zIImEWAKaDt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "//wsl.localhost/Ubuntu/home/osaxis/PHP_Projects/Docker_Symfony",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;//wsl.localhost/Ubuntu/home/osaxis/PHP_Projects/Docker_Symfony&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="\\wsl.localhost\Ubuntu\home\osaxis\PHP_Projects\Docker_Symfony\docker\php" />
@@ -67,6 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1718638187600</updated>
       <workItem from="1718638188671" duration="648000" />
+      <workItem from="1718638856163" duration="1385000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -76,7 +99,55 @@
       <option name="project" value="LOCAL" />
       <updated>1718638599895</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <option name="closed" value="true" />
+      <created>1718638887587</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718638887587</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test">
+      <option name="closed" value="true" />
+      <created>1718639018035</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718639018035</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test">
+      <option name="closed" value="true" />
+      <created>1718639084669</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718639084669</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test">
+      <option name="closed" value="true" />
+      <created>1718639110292</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718639110292</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test2">
+      <option name="closed" value="true" />
+      <created>1718639173079</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718639173079</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test2">
+      <option name="closed" value="true" />
+      <created>1718639189811</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718639189811</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +166,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="test2" />
+    <option name="LAST_COMMIT_MESSAGE" value="test2" />
   </component>
 </project>
