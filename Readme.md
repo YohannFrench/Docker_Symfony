@@ -23,5 +23,5 @@ A terminal is created inside the container where you can create a Symfony applic
 It will ask you if you want docker configuration in your project. Depends on your requirements.
 Finally, you can launch the application with :
 
-    symfony serve" -> http://127.0.0.1:8000
+    symfony serve -> http://127.0.0.1:8000
     
