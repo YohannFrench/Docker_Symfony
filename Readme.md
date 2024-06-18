@@ -16,11 +16,8 @@ Then, go inside the php container with this command :
 A terminal is created inside the container where you can create a Symfony application :
 
     composer create-project symfony/skeleton:"7.1.*" symfony
-
     cd symfony
-
     composer install
-
     composer require webapp
 
 It will ask you if you want docker configuration in your project. Depends on your requirements.
