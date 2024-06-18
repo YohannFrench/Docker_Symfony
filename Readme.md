@@ -1,6 +1,6 @@
 # Docker Symfony :
-Symfony: 7.1.1
-Nginx: latest
+- Symfony: 7.1.1
+- Nginx: latest
 
 This docker allow you to create a new Symfony project with Nginx server.
 
