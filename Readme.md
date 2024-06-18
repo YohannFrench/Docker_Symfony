@@ -5,9 +5,11 @@
 This docker allow you to create a new Symfony project with Nginx server.
 
 In a terminal, create the containers :
+
     - "docker compose up"
 
 Create Symfony application, by going inside the php container :
+
     - "docker exec -it php_container bash"
     - "composer create-project symfony/skeleton:"7.1.*" symfony"
     - "cd symfony"
